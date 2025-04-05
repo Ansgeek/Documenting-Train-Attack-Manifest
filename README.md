@@ -10,7 +10,6 @@ The primary dataset ues for this analysis is the " Abuja-Kaduna Train Attack man
 - DAX for calculated measures 
 - Excel in CSV format as the data source
 
-  
   ### Data cleaning/ Preparation
   In the initial data preparation we performed the following tasks:
   1. Data loading into power query.
