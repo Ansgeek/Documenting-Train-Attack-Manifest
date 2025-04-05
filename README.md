@@ -30,4 +30,8 @@ EDA involve exploring the data to answer the key questions such as
 - **Payment Platforms:** A bar chart reveals that the majority of transactions use [MOBILE/TOM] payment platforms.
 - **Coach Occupancy:** The column chart details the number of transactions per coach.
 
+## Contact
+📧 Email: anstechwk@protonmail.com
+
+📞 Phone: +2347059542396
 
