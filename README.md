@@ -5,6 +5,8 @@ This project uses Power BI to perform an exploratory data analysis (EDA) on a ra
 ### Data source
 The primary dataset ues for this analysis is the " Abuja-Kaduna Train Attack manifest.csv" file, containing detailed information about the incident
 
+![Railway Manifest](https://github.com/user-attachments/assets/d8354c4a-8062-49e8-8ef3-87b76945957e)
+
 ### Tools Used
 - Power BI Desktop, for data  cleaning and creating Report
 - DAX for calculated measures 
