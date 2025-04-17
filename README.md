@@ -41,3 +41,8 @@ EDA involve exploring the data to answer the key questions such as
 ------
 ![Image](https://github.com/user-attachments/assets/68520e45-821a-45c5-980a-edbdd4c4c58d)
 
+---
+
+### **Technical Tags**  
+`#DataAnalysis` `#PowerBI` `#DataVisualization` `#BusinessIntelligence` `#DAX`  
+`#DataCleaning` `#EDA` `#Excel` `#DashboardDesign` `#DataStorytelling` 
