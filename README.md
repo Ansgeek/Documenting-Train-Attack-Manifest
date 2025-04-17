@@ -2,6 +2,7 @@
 
 ### Project Overview
 This project uses Power BI to perform an exploratory data analysis (EDA) on a railway transaction dataset. The analysis covers revenue trends, passenger status, payment platform usage, and coach occupancy.
+
 ![Railway Manifest](https://github.com/user-attachments/assets/d8354c4a-8062-49e8-8ef3-87b76945957e)
 
 ### Data source
