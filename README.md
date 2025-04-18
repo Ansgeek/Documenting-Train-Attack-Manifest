@@ -39,7 +39,8 @@ EDA involve exploring the data to answer the key questions such as
 📞 Phone: +2347059542396
 
 ------
-![Image](https://github.com/user-attachments/assets/68520e45-821a-45c5-980a-edbdd4c4c58d)
+
+![Piture](https://github.com/user-attachments/assets/8e31516c-42f1-4b6f-89d9-c45ca15b008e)
 
 ---
 
